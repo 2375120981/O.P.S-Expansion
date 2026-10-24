@@ -1,0 +1,6 @@
+-- Reviewed layout for the game build verified by the 1.0.0 release.
+return {
+ dll_sha='2E2C3B7C2500646DADD5F2B4C6E0504DBB7E7896139F64CDDC0D1813C718F51E',
+ exe_sha='F5FEE03DCFDB2E553A4752C283590950AC13316B376D8196AA556FF0400D5F06',
+ stratagem={table_rva=58504704},
+}

@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "name": "O.P.S.扩展改装件",
+  "resource": "mods/c09nat/ops_cooldown_40s",
+  "guid": "6760b9e1-8c75-4a1d-8c25-80a17d9b6220",
+  "requires": {
+    "bingus": {
+      "min_release": 15,
+      "api": 1
+    }
+  }
+}
